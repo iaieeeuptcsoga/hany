@@ -1,0 +1,16 @@
+{
+  "name": "HANY App",
+  "short_name": "HANY",
+  "description": "HANY - Siempre a tu lado",
+  "start_url": "hany-app-demo.html",
+  "display": "standalone",
+  "background_color": "#f7d100",
+  "theme_color": "#f7d100",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
